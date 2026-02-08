@@ -178,14 +178,22 @@
   },
   "active": "6e722e003254ceb8",
   "lastOpenFiles": [
-    "CLAUDE.md",
+    "Vibe-Coding/gsd/gsd-소개.md",
+    "Vibe-Coding/gsd",
+    "specs/001-learning-docs/tasks.md",
+    "specs/001-learning-docs/checklists/requirements.md",
+    "specs/001-learning-docs/spec.md",
+    "specs/001-learning-docs/research.md",
+    "specs/001-learning-docs/quickstart.md",
+    "specs/001-learning-docs/plan.md",
+    "specs/001-learning-docs/data-model.md",
+    "specs/001-learning-docs/checklists",
+    "specs/001-learning-docs",
+    "specs",
     "Vibe-Coding/speckit/speckit-소개.md",
-    "개발-학습",
     "Vibe-Coding/speckit",
     "Vibe-Coding",
-    "specs/001-learning-docs/quickstart.md",
-    "specs/001-learning-docs/data-model.md",
-    "specs/001-learning-docs/research.md",
-    "specs/001-learning-docs/plan.md"
+    "CLAUDE.md",
+    "개발-학습"
   ]
 }
