@@ -11,10 +11,14 @@
             "id": "8865b5487679324a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "README 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "README 의 나가는 링크"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "README 의 개요"
             }
           }
         ]
@@ -173,14 +180,19 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e722e003254ceb8",
+  "active": "8865b5487679324a",
   "lastOpenFiles": [
+    "docs/SDD-vs-GSD.md",
+    "README.md",
+    "Vibe-Coding/speckit/speckit-소개.md",
+    "docs",
     "Vibe-Coding/gsd/gsd-소개.md",
-    "Vibe-Coding/gsd",
     "specs/001-learning-docs/tasks.md",
+    "Vibe-Coding/gsd",
     "specs/001-learning-docs/checklists/requirements.md",
     "specs/001-learning-docs/spec.md",
     "specs/001-learning-docs/research.md",
@@ -190,7 +202,6 @@
     "specs/001-learning-docs/checklists",
     "specs/001-learning-docs",
     "specs",
-    "Vibe-Coding/speckit/speckit-소개.md",
     "Vibe-Coding/speckit",
     "Vibe-Coding",
     "CLAUDE.md",
